@@ -1,4 +1,4 @@
-name: quit_smoke
+name: startup_name_generator
 description: A new Flutter project.
 
 dependencies:
