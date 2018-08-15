@@ -1,6 +1,6 @@
-# quit_smoke
+# Flutter startup name generator from first tutorial
 
-A new Flutter project.
+First Flutter project!
 
 ## Getting Started
 
